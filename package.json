@@ -1,0 +1,17 @@
+{
+  "name": "svg2mp4",
+  "version": "0.1.0",
+  "description": "Render an animated SVG (CSS animations and SMIL) to MP4, WebM or GIF.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "svg2mp4": "svg2mp4.mjs"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
